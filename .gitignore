@@ -1,0 +1,9 @@
+*.o
+a.out
+src/prog1
+src/prog2
+src/process
+src/wait_waitpid_demo
+src/zombie_process
+src/prog5
+src/lsgrep
