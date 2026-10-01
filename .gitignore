@@ -1,9 +1,24 @@
+# Compiled programs
+src/copy_lowlevel
+src/copy_stdio
+src/dynamic_memory
+src/memory_demo
+src/prog6_client
+src/prog6_server
+src/prog7_linuxaddr
+src/redirect_input
+src/redirect_output
+
+# Test data and generated output
+src/*.dat
+
+# Other local compiled files
 *.o
-a.out
+src/lsgrep
+src/process
 src/prog1
 src/prog2
-src/process
+src/prog5
 src/wait_waitpid_demo
 src/zombie_process
-src/prog5
-src/lsgrep
+
